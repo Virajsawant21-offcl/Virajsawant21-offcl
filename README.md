@@ -14,7 +14,7 @@ I am a **Data Analyst** with a strong foundation in **data analysis, visualizati
 I enjoy working with structured and unstructured data to uncover trends, patterns, and insights that support **data-driven decision making**.
 
 - 📊 Strong in **Data Analysis & Visualization**
-- 🧮 Skilled in **Python, SQL, Excel & Power BI**
+- 🧮 Skilled in **Digital marketing, SQL, Excel & Power BI**
 - 📈 Interested in **Business Analytics & Reporting**
 - 🌱 Currently improving **SQL, DAX & Python Analytics**
 - 🤝 Open to **internships, projects, and collaborations**
